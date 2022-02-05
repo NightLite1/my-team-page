@@ -23,9 +23,6 @@ span{
 .left-rigth, .center-img{
     width: 250px;
 }
-.center-img{
-    padding: 25% 0% 0% 0%;
-}
 /* .left-rigth{
     padding: 5%;
 } */
@@ -66,4 +63,7 @@ span{
         display: grid;
     }
     .sub-title{width: auto;}
+    .center-img{
+        padding: 25% 0% 0% 0%;
+    }
 }
